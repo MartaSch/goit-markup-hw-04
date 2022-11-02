@@ -182,7 +182,7 @@ margin-right:50px;
 }
 .section-background{
     margin: 0 auto;
-    background-color: rgba(250, 244, 250, 1);
+    background-color: #F5F4FA;
 }
 .index-images-two{
     display: flex;
@@ -243,7 +243,6 @@ margin-right:50px;
     background-color: rgba(47, 48, 58, 1);
 }
 .logo-padding{
-    margin-left:12.5%;
     padding-top:60px;
 }
 .footer-elements{
